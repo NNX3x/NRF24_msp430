@@ -1,0 +1,1 @@
+"./src/uart.obj" "./src/spi.obj" "./src/main.obj" "./src/devio.obj" "./src/NRF24L.obj" -l"libc.a" "../lnk_msp430g2253.cmd" 
